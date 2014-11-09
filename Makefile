@@ -23,3 +23,4 @@ _SDL_mixer:
 		--enable-music-midi=n \
 		&& make && make install
 
+
